@@ -1,3 +1,6 @@
+AI learning project from Fall 2022, written in Java. Used to learn and practice
+basic AI principles by making a dots and boxes game, player vs. AI.
+------------------------------------
 The dataset is a subset of the 20 newsgroup corpus http://qwone.com/~jason/20Newsgroups/  in document-by-term format. This subset has been taken from http://mlg.ucd.ie/content/view/22/ (this data was modified to remove terms that did not appear in any of the documents). 
 
 This subset includes 2,500 documents (newsgroup posts), each belonging to one of 5 categories:  comp.os.ms-windows (0), sci.crypt (1), soc.religion.christian (2), rec.sport.hockey (3), and misc.forsale (4). The documents are represented by 9328 terms (stems) after tokenization, stop word removal, and stemming. The data has been divided into test and train (20%, 80%) subsets, each presented as document-by-term matrices. The dictionary (vocabulary) for the data set is given in the file "newsgroup5-terms.txt" (the row index in this file corresponds to the column indexes fo the training and test matrices. 
