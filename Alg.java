@@ -1,0 +1,1 @@
+public enum Alg { DEPTH, BREADTH, UNIFORM, GREEDY, A1, A2}
